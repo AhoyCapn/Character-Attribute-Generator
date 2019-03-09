@@ -1,6 +1,7 @@
 """
-Made by Preston Johnstone Last Updated 3/9/2019
+Made by Preston Johnstone 
 This program uses the random module to generate attributes for a character.
+Last Updated 3/9/2019
 Version 2.0
 """
 
